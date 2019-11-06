@@ -1,0 +1,60 @@
+time	species	landings	port
+UTC		pounds	numbers
+2003-01-01T00:00:00Z	Sardine, Pacific	17432494	Monterey
+2003-01-01T00:00:00Z	Sardine, Pacific	5221404	Santa Barbara
+2003-01-01T00:00:00Z	Sardine, Pacific	61930	San Diego
+2003-01-01T00:00:00Z	Sardine, Pacific	250	San Francisco
+2004-01-01T00:00:00Z	Sardine, Pacific	34047402	Monterey
+2004-01-01T00:00:00Z	Sardine, Pacific	10436747	Santa Barbara
+2004-01-01T00:00:00Z	Sardine, Pacific	0	San Diego
+2004-01-01T00:00:00Z	Sardine, Pacific	815938	San Francisco
+2005-01-01T00:00:00Z	Sardine, Pacific	53236674	Los Angeles
+2005-01-01T00:00:00Z	Sardine, Pacific	17899896	Monterey
+2005-01-01T00:00:00Z	Sardine, Pacific	4308031	Santa Barbara
+2005-01-01T00:00:00Z	Sardine, Pacific	47420	San Diego
+2005-01-01T00:00:00Z	Sardine, Pacific	681196	San Francisco
+2006-01-01T00:00:00Z	Sardine, Pacific	59043970	Los Angeles
+2006-01-01T00:00:00Z	Sardine, Pacific	39045718	Monterey
+2006-01-01T00:00:00Z	Sardine, Pacific	4266405	Santa Barbara
+2006-01-01T00:00:00Z	Sardine, Pacific	288552	San Francisco
+2006-01-01T00:00:00Z	Sardine, Pacific	39032	San Diego
+2007-01-01T00:00:00Z	Sardine, Pacific	94777158	Los Angeles
+2007-01-01T00:00:00Z	Sardine, Pacific	76623389	Monterey
+2007-01-01T00:00:00Z	Sardine, Pacific	7071519	Santa Barbara
+2007-01-01T00:00:00Z	Sardine, Pacific	4300	San Francisco
+2007-01-01T00:00:00Z	Sardine, Pacific	94	San Diego
+2008-01-01T00:00:00Z	Sardine, Pacific	68229761	Los Angeles
+2008-01-01T00:00:00Z	Sardine, Pacific	57786481	Monterey
+2008-01-01T00:00:00Z	Sardine, Pacific	319960	Santa Barbara
+2008-01-01T00:00:00Z	Sardine, Pacific	1102104	San Francisco
+2008-01-01T00:00:00Z	Sardine, Pacific	0	San Diego
+2009-01-01T00:00:00Z	Sardine, Pacific	27377586	Los Angeles
+2009-01-01T00:00:00Z	Sardine, Pacific	53243354	Monterey
+2009-01-01T00:00:00Z	Sardine, Pacific	315159	Santa Barbara
+2009-01-01T00:00:00Z	Sardine, Pacific	1898198	San Francisco
+2009-01-01T00:00:00Z	Sardine, Pacific	0	San Diego
+2010-01-01T00:00:00Z	Sardine, Pacific	61307461	Los Angeles
+2010-01-01T00:00:00Z	Sardine, Pacific	9491675	Monterey
+2010-01-01T00:00:00Z	Sardine, Pacific	3359908	Santa Barbara
+2010-01-01T00:00:00Z	Sardine, Pacific	133	San Francisco
+2010-01-01T00:00:00Z	Sardine, Pacific	43650	San Diego
+2011-01-01T00:00:00Z	Sardine, Pacific	38777246	Los Angeles
+2011-01-01T00:00:00Z	Sardine, Pacific	22204459	Monterey
+2011-01-01T00:00:00Z	Sardine, Pacific	88930	Santa Barbara
+2011-01-01T00:00:00Z	Sardine, Pacific	18	San Francisco
+2011-01-01T00:00:00Z	Sardine, Pacific	27333	San Diego
+2012-01-01T00:00:00Z	Sardine, Pacific	39117092	Los Angeles
+2012-01-01T00:00:00Z	Sardine, Pacific	9349045	Monterey
+2012-01-01T00:00:00Z	Sardine, Pacific	2121258	Santa Barbara
+2012-01-01T00:00:00Z	Sardine, Pacific	1634	San Francisco
+2012-01-01T00:00:00Z	Sardine, Pacific	213733	San Diego
+2013-01-01T00:00:00Z	Sardine, Pacific	13285938	Los Angeles
+2013-01-01T00:00:00Z	Sardine, Pacific	1810562	Monterey
+2013-01-01T00:00:00Z	Sardine, Pacific	488407	Santa Barbara
+2013-01-01T00:00:00Z	Sardine, Pacific	4293	San Francisco
+2013-01-01T00:00:00Z	Sardine, Pacific	5275	San Diego
+2014-01-01T00:00:00Z	Sardine, Pacific	3152589	Los Angeles
+2014-01-01T00:00:00Z	Sardine, Pacific	13741444	Monterey
+2014-01-01T00:00:00Z	Sardine, Pacific	211861	Santa Barbara
+2014-01-01T00:00:00Z	Sardine, Pacific	1540	San Francisco
+2014-01-01T00:00:00Z	Sardine, Pacific	18033	San Diego

@@ -1,0 +1,60 @@
+time	species	landings	port
+UTC		pounds	numbers
+2003-01-01T00:00:00Z	Anchovy, Northern	1555834	Monterey
+2003-01-01T00:00:00Z	Anchovy, Northern	1378832	Santa Barbara
+2003-01-01T00:00:00Z	Anchovy, Northern	29972	San Diego
+2003-01-01T00:00:00Z	Anchovy, Northern	0	San Francisco
+2004-01-01T00:00:00Z	Anchovy, Northern	8577584	Monterey
+2004-01-01T00:00:00Z	Anchovy, Northern	6072683	Santa Barbara
+2004-01-01T00:00:00Z	Anchovy, Northern	0	San Diego
+2004-01-01T00:00:00Z	Anchovy, Northern	23	San Francisco
+2005-01-01T00:00:00Z	Anchovy, Northern	4392501	Los Angeles
+2005-01-01T00:00:00Z	Anchovy, Northern	13651387	Monterey
+2005-01-01T00:00:00Z	Anchovy, Northern	6562724	Santa Barbara
+2005-01-01T00:00:00Z	Anchovy, Northern	40050	San Diego
+2005-01-01T00:00:00Z	Anchovy, Northern	29	San Francisco
+2006-01-01T00:00:00Z	Anchovy, Northern	1936438	Los Angeles
+2006-01-01T00:00:00Z	Anchovy, Northern	16831064	Monterey
+2006-01-01T00:00:00Z	Anchovy, Northern	9217810	Santa Barbara
+2006-01-01T00:00:00Z	Anchovy, Northern	155400	San Francisco
+2006-01-01T00:00:00Z	Anchovy, Northern	57565	San Diego
+2007-01-01T00:00:00Z	Anchovy, Northern	2045418	Los Angeles
+2007-01-01T00:00:00Z	Anchovy, Northern	16985051	Monterey
+2007-01-01T00:00:00Z	Anchovy, Northern	3874904	Santa Barbara
+2007-01-01T00:00:00Z	Anchovy, Northern	0	San Francisco
+2007-01-01T00:00:00Z	Anchovy, Northern	93	San Diego
+2008-01-01T00:00:00Z	Anchovy, Northern	4338887	Los Angeles
+2008-01-01T00:00:00Z	Anchovy, Northern	26931368	Monterey
+2008-01-01T00:00:00Z	Anchovy, Northern	222258	Santa Barbara
+2008-01-01T00:00:00Z	Anchovy, Northern	91	San Francisco
+2008-01-01T00:00:00Z	Anchovy, Northern	0	San Diego
+2009-01-01T00:00:00Z	Anchovy, Northern	2688524	Los Angeles
+2009-01-01T00:00:00Z	Anchovy, Northern	2156994	Monterey
+2009-01-01T00:00:00Z	Anchovy, Northern	1027143	Santa Barbara
+2009-01-01T00:00:00Z	Anchovy, Northern	0	San Francisco
+2009-01-01T00:00:00Z	Anchovy, Northern	0	San Diego
+2010-01-01T00:00:00Z	Anchovy, Northern	213185	Los Angeles
+2010-01-01T00:00:00Z	Anchovy, Northern	1505528	Monterey
+2010-01-01T00:00:00Z	Anchovy, Northern	214568	Santa Barbara
+2010-01-01T00:00:00Z	Anchovy, Northern	76349	San Francisco
+2010-01-01T00:00:00Z	Anchovy, Northern	251218	San Diego
+2011-01-01T00:00:00Z	Anchovy, Northern	918429	Los Angeles
+2011-01-01T00:00:00Z	Anchovy, Northern	4017139	Monterey
+2011-01-01T00:00:00Z	Anchovy, Northern	282954	Santa Barbara
+2011-01-01T00:00:00Z	Anchovy, Northern		San Francisco
+2011-01-01T00:00:00Z	Anchovy, Northern	515248	San Diego
+2012-01-01T00:00:00Z	Anchovy, Northern	287011	Los Angeles
+2012-01-01T00:00:00Z	Anchovy, Northern	5012239	Monterey
+2012-01-01T00:00:00Z	Anchovy, Northern	131253	Santa Barbara
+2012-01-01T00:00:00Z	Anchovy, Northern	0	San Francisco
+2012-01-01T00:00:00Z	Anchovy, Northern	53566	San Diego
+2013-01-01T00:00:00Z	Anchovy, Northern	23789	Los Angeles
+2013-01-01T00:00:00Z	Anchovy, Northern	12393206	Monterey
+2013-01-01T00:00:00Z	Anchovy, Northern	443658	Santa Barbara
+2013-01-01T00:00:00Z	Anchovy, Northern	10	San Francisco
+2013-01-01T00:00:00Z	Anchovy, Northern	378210	San Diego
+2014-01-01T00:00:00Z	Anchovy, Northern	38473	Los Angeles
+2014-01-01T00:00:00Z	Anchovy, Northern	22881404	Monterey
+2014-01-01T00:00:00Z	Anchovy, Northern	146135	Santa Barbara
+2014-01-01T00:00:00Z	Anchovy, Northern	0	San Francisco
+2014-01-01T00:00:00Z	Anchovy, Northern	106134	San Diego
